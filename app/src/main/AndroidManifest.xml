@@ -7,7 +7,7 @@
     <application
         android:name=".GlobalApplication"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/kakaotalk_20161218_125022119"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -27,7 +27,8 @@
             android:value="f3a14fbc0e5bf547c00ca7ea6e4a48dc" />
 
         <activity android:name=".MapActivity" />
-        <activity android:name=".Map1Activity"></activity>
+        <activity android:name=".Map1Activity" />
+        <activity android:name=".LankActivity"></activity>
     </application>
 
 </manifest>
